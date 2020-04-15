@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 
 </p>
 
@@ -37,6 +38,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's que precisam de algum tipo de ajuda.
 
-O projeto foi dividido em duas partes, a versão web (utilizada direcionada para as Ong's)
+O projeto foi dividido em duas partes, a versão web (direcionada para as Ong's)
  e a versão mobile (utilizada pelos Herois)
+
+ A versão Web é destinada diretamente para as ONG's, enquanto a versão mobile é direcionada para os Herois que vão apadinhar os casos.
+
+Após o heroi selecionar o caso de seu interesse ele poderá entrar em contado com a ONG via whatsapp ou e-mail.
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
 
