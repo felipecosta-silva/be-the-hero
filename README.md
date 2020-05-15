@@ -45,6 +45,12 @@ O projeto foi dividido em duas partes, a versão web (direcionada para as Ong's)
 
 Após o heroi selecionar o caso de seu interesse ele poderá entrar em contado com a ONG via whatsapp ou e-mail.
 
+#FRONT-END
+yarn start
+
+#BACK-END
+npm start
+
 
 ## :memo: Licença
 
